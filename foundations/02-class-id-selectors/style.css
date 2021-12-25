@@ -1,0 +1,19 @@
+.odd{
+    background-color: #FFA7A7;
+    font-family: 'Verdana', sans-serif;
+}
+
+#element-two{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.different{
+    font-size: 24px;
+}
+
+#element-four{
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
